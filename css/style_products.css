@@ -1,0 +1,11 @@
+.card{
+	width: 32%;
+	text-align: center;
+}
+
+.card img {
+	width: 130px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto
+}
